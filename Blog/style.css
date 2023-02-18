@@ -1,0 +1,24 @@
+.travel_mainDiv{
+    border:1px soli+ green;
+}
+.travel_mainDiv{
+    width: 100%;
+}
+.travel_mainDiv h5, .travel_mainDiv{
+    margin: 20px;
+}
+
+.movie_head{
+    font-size: 20px;
+    padding:7px 22px;
+    border-radius:10px;
+margin-bottom: 15;
+}
+
+.movie_head i{
+    float:right;
+}
+
+.movie_text span{
+    color:rgb(255, 234, 0)
+}
